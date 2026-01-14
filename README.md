@@ -165,7 +165,7 @@ XGBoost is recommended as the final model due to its balanced performance, stabi
 
 ## 👤 Author
 [Samarth Chugh](https://www.linkedin.com/in/-samarthchugh/)\
-[Kaggle](https://www.kaggle.com/code/samarthchugh/telecom-churn-prediction-eda-model-development)
+[Kaggle](https://www.kaggle.com/code/samarthchugh/telecom-churn-prediction-eda-model-development)\
 Aspiring Data Scientist / Machine Learning Engineer\
 Focused on building business-driven, production-ready ML solutions.
 
